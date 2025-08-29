@@ -68,9 +68,9 @@ Excel proved once again to be a powerful tool for business intelligence and data
 ## 📂 Repository Structure
 ### 📁 furniture-sales-analysis
  * ┣ 📄 README.md
- * ┣ 📊 furniture_data.xlsx      # Raw dataset
- * ┣ 📊 furniture_dashboard.xlsx # Dashboard file
- * ┗ 📸 dashboard.png            # Dashboard screenshot
+ * ┣ 📊 furniture_data.xlsx      
+ * ┣ 📊 furniture_dashboard.xlsx 
+ * ┗ 📸 dashboard.png            
 
 ## 🚀 Future Improvements
 
