@@ -58,7 +58,7 @@ Dashboard design – KPI cards and layout for professional presentation
 ## 📸 Dashboard Snapshot
 
 
-![Furniture Sales Dashboard]()
+![Furniture Sales Dashboard](https://github.com/OgaPrecious/Furniture-Project/blob/main/furniture.png)
 
 ##  Conclusion
 
